@@ -88,7 +88,8 @@ const songs = [
     "https://youtu.be/Lxr7jwqqnpw",
     "https://youtu.be/8XKba81lEPU",
     "https://youtu.be/BWpZcGHijnk",
-    "https://youtu.be/Z35h6_4NV9k"
+    "https://youtu.be/Z35h6_4NV9k",
+    "https://youtu.be/_3rbzlh3JHc"
 ];
 
 client.once('ready', () => {
